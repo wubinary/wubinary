@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wubinary&label=Profile%20views&color=0e75b6&style=flat" alt="wubinary" /> </p>
 
-- 🌱 I’m currently studying **innovative AI research**
-- 💬 Ask me about **pytorch, react, graphql, node.js, django, dapp**
-- 👨‍💻 All of my projects are available at [Binary Wu's Web](https://wubinary.github.io/#project)
-- 📫 How to reach me **wubinray[at]gmail.com**
+- 🌱 I’m currently studying **innovative AI research**.
+- 💬 Ask me about **pytorch, react, graphql, node.js, django, dapp**.
+- 👨‍💻 All of my projects are available at [Binary Wu's Web](https://wubinary.github.io/#project).
+- 📫 How to reach me **wubinray[at]gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
