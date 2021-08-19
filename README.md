@@ -49,8 +49,8 @@
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=wubinary&show_icons=true&locale=en" alt="wubinary" /> 
+<p align="left">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=wubinary&show_icons=true&locale=en" alt="wubinary" /> &nbsp;
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=wubinary&show_icons=true&locale=en&layout=compact" alt="wubinary" /> 
 </p>
 
