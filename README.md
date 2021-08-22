@@ -50,7 +50,8 @@
 </p>
 
 <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=wubinary&show_icons=true&locale=en" alt="wubinary" /> &nbsp;
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=wubinary&show_icons=true&locale=en&layout=compact" alt="wubinary" /> 
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=wubinary&show_icons=true&locale=en" alt="wubinary" />
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=wubinary&show_icons=true&locale=en&layout=compact" alt="wubinary" /> 
+    <img height="130" src="https://i.redd.it/jvujfnh7mfi51.gif" alt="wubinary" /> 
 </p>
 
