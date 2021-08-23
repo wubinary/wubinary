@@ -52,6 +52,6 @@
 <p align="center">
     <img height="130" src="https://github-readme-stats.vercel.app/api?username=wubinary&show_icons=true&locale=en" alt="wubinary" /> &nbsp;
     <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=wubinary&show_icons=true&locale=en&layout=compact" alt="wubinary" /> &nbsp;
-    <img height="130" src="https://thumbs.gfycat.com/PlayfulCandidCalf-max-1mb.gif" alt="wubinary" /> 
+    <img height="100" src="asset/imgs/patric_dance.gif" alt="wubinary" /> 
 </p>
 
