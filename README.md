@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Binary Wu. 😳😳</h1>
 <h3 align="center">AI Researcher, Web Developer, Software Engineer.</h3>
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wubinary&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p> -->
 
 - 🌱 I’m currently studying **innovative AI research**.
 - 💬 Ask me about **pytorch, react, graphql, node.js, django, dapp**.
