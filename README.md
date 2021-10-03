@@ -18,6 +18,41 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <!-- c -->
+    <code><a href="https://www.cprogramming.com/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a></code>
+    <!-- cpp -->
+    <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a></code>
+    <!-- js -->
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a></code>
+    <!-- python -->
+    <code><a href="https://www.python.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a></code>
+    <!-- bash -->
+    <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a></code>
+    <!-- git -->
+    <code><a href="https://git-scm.com/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a></code>
+    <!-- linux -->
+    <code><a href="https://www.linux.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a></code>
+    <!-- react -->
+    <code><a href="https://reactjs.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></a></code>
+    <!-- graphql -->
+    <code><a href="https://graphql.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a></code>
+    <!-- django -->
+    <code><a href="https://www.djangoproject.com/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></a></code>
+    <!-- express -->
+    <code><a href="https://expressjs.com/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></a></code>
+    <!-- nodejs -->
+    <code><a href="https://nodejs.org" target="_blank"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></a></code>
+    <!-- mongodb -->
+    <code><a href="https://www.mongodb.com/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a></code>
+    <!-- mysql -->
+    <code><a href="https://www.mysql.com/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a></code>
+    <!-- opencv -->
+    <code><a href="https://opencv.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" /></a></code>
+    <!-- pytorch -->
+    <code><a href="https://pytorch.org/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /></a></code>
+</p>
+
 <p align="left"> 
     <!-- c -->
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -54,4 +89,3 @@
     <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=wubinary&show_icons=true&locale=en&layout=compact" alt="wubinary" /> &nbsp; &nbsp;
     <img height="130" src="asset/imgs/dance.gif" alt="wubinary" /> 
 </p>
-
