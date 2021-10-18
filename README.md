@@ -53,10 +53,10 @@
     <code><a href="https://pytorch.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /></a></code>
 </p>
 
-<p align="center">
+<p align="left">
 <!--     <img height="130" src="https://github-readme-stats.vercel.app/api?username=wubinary&show_icons=true&locale=en" alt="wubinary" /> &nbsp;
     <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=wubinary&show_icons=true&locale=en&layout=compact" alt="wubinary" /> &nbsp; &nbsp; -->
-    <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wubinary&theme=nord_dark" alt="wubinary" />
+    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wubinary&theme=nord_dark" alt="wubinary" />
     <br>
     <img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wubinary&theme=nord_dark" alt="wubinary" />
     <img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wubinary&theme=nord_dark" alt="wubinary" /> &nbsp;
