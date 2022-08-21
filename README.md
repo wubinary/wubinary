@@ -23,10 +23,10 @@
     <code><a href="https://www.cprogramming.com/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a></code>
     <!-- cpp -->
     <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a></code>
-    <!-- js -->
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a></code>
     <!-- python -->
     <code><a href="https://www.python.org" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a></code>
+    <!-- js -->
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a></code>
     <!-- bash -->
     <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a></code>
     <!-- git -->
