@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **innovative AI research**.
 - 💬 Ask me about **pytorch, react, graphql, node.js, django, dapp**.
-- 👨‍💻 More information about me at [Binary Wu's Web](https://wubinary.github.io/).
+- 👨‍💻 More information about me at [Binary Wu's Web](https://wubinary.github.io/) / [CV](https://wubinary.github.io/assets/wubinray_CV.pdf).
 - 📫 How to reach me **wubinray[at]gmail.com**.
 
 
