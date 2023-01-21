@@ -3,8 +3,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wubinary&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p> -->
 
-- 🌱 I’m currently studying **innovative AI research**.
-- 💬 Ask me about **pytorch, react, graphql, node.js, django, dapp**.
+<!-- - 🌱 I’m currently studying **innovative AI research**.
+- 💬 Ask me about **pytorch, react, graphql, node.js, django, dapp**. -->
 - 👨‍💻 More information about me at [Binary Wu's Web](https://wubinary.github.io/) / [CV](https://wubinary.github.io/assets/wubinray_CV.pdf).
 - 📫 How to reach me **wubinray[at]gmail.com**.
 
