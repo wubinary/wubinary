@@ -60,5 +60,5 @@
     <br>
     <img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wubinary&theme=nord_dark" alt="wubinary" />
     <img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wubinary&theme=nord_dark" alt="wubinary" /> &nbsp;
-    <img height="110" src="asset/imgs/dance.gif" alt="wubinary" /> 
+    <img height="110" src="asset/imgs/cute_unscreen.gif" alt="wubinary" /> 
 </p>
